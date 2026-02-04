@@ -37,6 +37,16 @@ sh train_val_test_TLCGIS.sh
 ## Citation
 If you use this code, please cite our paper.
 <!-- ```
+@ARTICLE{10493850,
+  author={Qiu, Yu and Lin, Chenyu and Mei, Jie and Sun, Yuhang and Lu, Haotian and Xu, Jing},
+  journal={IEEE Transactions on Geoscience and Remote Sensing}, 
+  title={Lightweight Cross-Modal Information Measure and Propagation for Road Extraction From Remote Sensing Image and Trajectory/LiDAR}, 
+  year={2024},
+  volume={62},
+  number={},
+  pages={1-16},
+  keywords={Roads;Trajectory;Remote sensing;Feature extraction;Global Positioning System;Data mining;Laser radar;Channel propagation;multimodal road extraction;remote sensing image (RSI);sparse constraint},
+  doi={10.1109/TGRS.2024.3385667}}
 
 ``` -->
 
